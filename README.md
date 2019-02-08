@@ -1,5 +1,7 @@
+# Unix Command Cheat Sheet
+
 ## Key
-[here](#Users)
+[users](#Users)
 
 
 ## File and Directory Manipulation
