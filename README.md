@@ -52,6 +52,14 @@ Get the current directory
 $ pwd
 ```
 
+Delete a file or directory
+
+```bash
+$ rm -rf filename
+or
+$ rm -rf directory_name
+```
+
 ## Users
 
 Create New User
@@ -100,6 +108,12 @@ Change your own username
 
 ```bash
 $ passwd 
+```
+
+Delete the username 
+
+```
+$ userdel username
 ```
 
 ## Update Linux
