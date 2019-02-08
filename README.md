@@ -4,6 +4,7 @@
 * [How to manipulate files and directories](#file-and-directory-manipulation)
 * [How to edit users](#users)
 * [How to update packages and the OS](#update-linux)
+* [Networking](#networking)
 
 
 ## File and Directory Manipulation
