@@ -1,8 +1,9 @@
 # Unix Command Cheat Sheet
 
 ## Key
-* [File and Directory Manipulation](#File)
-* [Users](#Users)
+* [How to manipulate files and directories](#file-and-directory-manipulation)
+* [How to edit users](#users)
+* [How to update packages and the OS](#update-linux)
 
 
 ## File and Directory Manipulation
