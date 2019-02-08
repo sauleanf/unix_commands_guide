@@ -1,6 +1,6 @@
-##FILE MANIPULATION
+## FILE MANIPULATION
 
 
-```
-$ mv filename new_location/filename
+```bash
+mv filename new_location/filename
 ```
