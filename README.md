@@ -26,7 +26,17 @@ or
 $ nano new_filename
 ```
 
-List the content of the directory
+List the content of the current directory
+
+```bash
+$ ls
+```
+
+Create a new directory
+
+```bash
+$ mkdir directory_name
+```
 
 ## Users
 
