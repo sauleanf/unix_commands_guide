@@ -38,6 +38,12 @@ Create a new directory
 $ mkdir directory_name
 ```
 
+Get the current directory
+
+```bash
+$ pwd
+```
+
 ## Users
 
 Create New User
