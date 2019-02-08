@@ -1,7 +1,8 @@
 # Unix Command Cheat Sheet
 
 ## Key
-[users](#Users)
+* [File and Directory Manipulation](#File and Directory Manipulation)
+* [Users](#Users)
 
 
 ## File and Directory Manipulation
