@@ -142,3 +142,11 @@ How to upgrade to the recent version of the Linux Distribution (Ubuntu only)
 ```bash
 $ sudo do-release-update
 ```
+
+## Networking
+
+How to get your local ip
+
+```bash
+$ ip route get 8.8.8.8 | awk '{print $NF; exit}'
+```
