@@ -105,12 +105,6 @@ Change the password of an username
 $ passwd username
 ```
 
-Change your own username
-
-```bash
-$ passwd 
-```
-
 Delete the username 
 
 ```
